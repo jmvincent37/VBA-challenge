@@ -1,3 +1,5 @@
+Sub vba_challenge()
+
 Dim Ticker_Name As String
 Dim Volume As Double
 Dim Open_Price As Double
